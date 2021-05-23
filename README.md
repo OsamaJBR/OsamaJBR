@@ -1,4 +1,12 @@
-### Hi there 👋
+### Marhaba, Hey 👋
+
+Solution Architect, Infrastructure, DevOps and Developer.
+
+- 🔭 I’m currently working in Adtech field, building a world-class DOOH 
+
+- 📫 How to reach me: email on the profile page.
+
+
 
 <!--
 **OsamaJBR/OsamaJBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
