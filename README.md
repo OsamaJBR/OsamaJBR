@@ -1,12 +1,12 @@
 ### Marhaba, Hey 👋
 
-Solution Architect, Infrastructure, DevOps and Developer.
+Solution Architect, DevOps
 
-- 🔭 I’m currently working in Adtech field, building a world-class DOOH 
-
-- 📫 How to reach me: email on the profile page.
-
-
+- 🔭 Currently working in Adtech field, building a world-class DOOH 
+- 🌱 I keep learning.
+- 📫 How to reach me: jbr.osama[at]gmail.com 
+- 💬 Ask me about Servers, Cloud, Development, Data Pipelines.
+- ⚡ Fun fact: Nothing funny about being a developer.
 
 <!--
 **OsamaJBR/OsamaJBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
